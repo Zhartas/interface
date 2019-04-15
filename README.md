@@ -13,30 +13,30 @@ Symfony 4 with basic vendors
 
 ## Installation
 
-1. Clone the project in your computer:
+**1. Clone the project in your computer:**
 
 ``git clone https://github.com/Zhartas/interface.git``
 
 
-2. Install Symfony vendors
+**2. Install Symfony vendors**
 
 ``composer install``
 
-3. Install node modules
+**3. Install node modules**
 
 ``yarn install``
 
-4. ENJOY !!!
+**4. ENJOY !!!**
 
 ``php bin/console server:run``
 
 
 ## SASS
 
-Watch sass dev env
+**Watch sass dev env**
 
 ``yarn run encore dev --watch``
 
-Run on production
+**Run on production**
 
 ``yarn run encore production``
