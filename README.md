@@ -11,7 +11,7 @@ Symfony 4 with basic vendors
 |**Translation**| internationalization |
 |**Encore with Sass**| Webpack Encore is a simpler way to integrate Webpack into your application |
 
-# Installation
+## Installation
 
 1. Clone the project in your computer:
 
@@ -29,3 +29,14 @@ Symfony 4 with basic vendors
 4. ENJOY !!!
 
 ``php bin/console server:run``
+
+
+## SASS
+
+Watch sass dev env
+
+``yarn run encore dev --watch``
+
+Run on production
+
+``yarn run encore production``
