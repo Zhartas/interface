@@ -2,14 +2,22 @@
 
 Symfony 4 with basic vendors
 
-**Twig**,
-**Maker**,
-**Profiler**,
-**Annotations**,
-**Asset**,
-**Translation**,
-**Encore with Sass**
+,
+,
+,
+,
+,
+,
 
+
+| Vendors   |           |   
+|----------|:-------------:|
+|**Twig**|Twig is a modern template engine for PHP|
+|**Maker**|Symfony Maker helps you create empty commands, controllers, form classes, tests and more  |
+|**Profiler**|The profiler is a powerful development tool that gives detailed information |
+|**Annotations**| Add annotations format |
+|**Translation**| internationalization |
+|**Encore with Sass**| Webpack Encore is a simpler way to integrate Webpack into your application |
 
 # Installation
 
