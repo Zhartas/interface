@@ -2,7 +2,7 @@
 
 Symfony 4 with basic vendors
 
-|    |           |   
+|Vendors  |  Description         |   
 |----------|:-------------:|
 |**Twig**|Twig is a modern template engine for PHP|
 |**Maker**|Symfony Maker helps you create empty commands, controllers, form classes, tests and more  |
