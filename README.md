@@ -2,14 +2,6 @@
 
 Symfony 4 with basic vendors
 
-,
-,
-,
-,
-,
-,
-
-
 | Vendors   |           |   
 |----------|:-------------:|
 |**Twig**|Twig is a modern template engine for PHP|
