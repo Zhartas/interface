@@ -2,7 +2,7 @@
 
 Symfony 4 with basic vendors
 
-| Vendors   |           |   
+|    |           |   
 |----------|:-------------:|
 |**Twig**|Twig is a modern template engine for PHP|
 |**Maker**|Symfony Maker helps you create empty commands, controllers, form classes, tests and more  |
@@ -26,6 +26,6 @@ Symfony 4 with basic vendors
 
 ``yarn install``
 
-4. ENJOY 
+4. ENJOY !!!
 
 ``php bin/console server:run``
