@@ -10,6 +10,6 @@ const $ = require('jquery');
 require('bootstrap');
 
 // any CSS you require will output into a single css file (app.css in this case)
-require('../scss/back/app.scss');
+require('../scss/app.scss');
 
 
