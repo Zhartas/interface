@@ -18,21 +18,27 @@ Symfony 4 with basic vendors
 
 ``git clone https://github.com/Zhartas/interface.git``
 
+**2. Change directory**
 
-**2. Install Symfony vendors**
+``cd interface``
+
+**3. Install Symfony vendors**
 
 ``composer install``
 
-**3. Install node modules**
+**4. Install node modules**
 
 ``yarn install``
 
-**4. ENJOY !!!**
+**5. ENJOY !!!**
 
 ``php bin/console server:run``
 
 
 ## SASS
+! Important, sass required
+
+##### Run this command
 
 **Watch sass dev env**
 
