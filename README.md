@@ -10,6 +10,7 @@ Symfony 4 with basic vendors
 |**Annotations**| Add annotations format |
 |**Translation**| internationalization |
 |**Encore with Sass**| Webpack Encore is a simpler way to integrate Webpack into your application |
+|**Security**| Symfony's security system is incredibly powerful, but it can also be confusing to set up. |
 
 ## Installation
 
