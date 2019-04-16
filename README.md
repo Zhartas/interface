@@ -36,9 +36,7 @@ Symfony 4 with basic vendors
 
 
 ## SASS
-! Important, sass required
-
-##### Run this command
+WARNING | sass required, **Run next command**
 
 **Watch sass dev env**
 
