@@ -36,12 +36,12 @@ Symfony 4 with basic vendors
 
 
 ## SASS
-WARNING | sass required, **Run next command**
+WARNING | sass required | **Run next command**
 
 **Watch sass dev env**
 
 ``yarn run encore dev --watch``
 
-**Run on production**
+**Run only for production**
 
 ``yarn run encore production``
